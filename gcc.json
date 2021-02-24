@@ -26,13 +26,7 @@
                 "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-windows-default-manifest-6.4-3-any.pkg.tar.xz",
                 "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-winpthreads-git-9.0.0.6105.f3855e2c-1-any.pkg.tar.zst",
                 "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-zlib-1.2.11-9-any.pkg.tar.zst",
-                "https://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-zstd-1.4.8-2-any.pkg.tar.zst",
-                "https://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-gdb-10.1-2-any.pkg.tar.zst",
-                "https://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-xxhash-0.8.0-1-any.pkg.tar.zst",
-                "https://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-readline-8.0.004-2-any.pkg.tar.zst",
-                "https://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-python-3.8.7-6-any.pkg.tar.zst",
-                "https://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-ncurses-6.2-2-any.pkg.tar.zst",
-                "https://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-termcap-1.3.1-6-any.pkg.tar.zst"
+                "https://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-zstd-1.4.8-2-any.pkg.tar.zst"
             ],
             "hash": [
                 "7e294fa4770ff8643cec4c09e4f71eb955ad3020bb2e30090ebc4ccd196d15ca",
@@ -55,13 +49,7 @@
                 "6c0ea4adcef503dc8174e9d4d70a10aee8295d620db4494f78fa512df0589dcf",
                 "496fe729d7bddd2b752f3f3abf551e1886887d1e50d0823058ac66922468ac6c",
                 "9da9ebafaef832dba2f442ad44d9ae8759784b86478dcbe326500195f8ea6339",
-                "e3590ca43d6844840a23dd94259ce94265e7e2e98b8166719f6165ccd0354ad7",
-                "0c399988e2574a8c4b32b68aaefbc6a15a3db80c3914ceaad13041f2776a9f89",
-                "49763fb81fe02c3b92f31c48840c1d335dada280e1f560f848e5082cf489ba03",
-                "54ee0b4f06dddf5c14fc15e42af2cb4c10457f1289e1625e8fb05eb7fe8617b0",
-                "c39c37581883827fd6db729bade4d6733a72264c78a980a0df3f08e9ba8a6f43",
-                "3dac72f026ab3223b46e4965845c8730b5c2309ddd1887fda892c4384318eaf6",
-                "782fc19a7ddf10b6f7abc60b9d4227bac622cb3056c91747dd61d73d8afcebf1"
+                "e3590ca43d6844840a23dd94259ce94265e7e2e98b8166719f6165ccd0354ad7"
             ],
             "pre_install": [
                 "Move-Item \"$dir\\mingw64\\*\" \"$dir\"",
