@@ -1,5 +1,5 @@
 {
-    "version": "10.2.0",
+    "version": "gcc-10.2.0-6",
     "description": "GNU Compiler Collection (Mingw-w64 port from MSYS2 project)",
     "homepage": "http://mingw-w64.org/doku.php",
     "license": "GPL-3.0-or-later,ZPL-2.1,...",
